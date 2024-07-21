@@ -1,11 +1,9 @@
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-from PIL import Image
 import requests
 import base64
 import json
 import time
-import os
 
 
 # Load Config

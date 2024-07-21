@@ -1,0 +1,5 @@
+selenium
+pillow
+requests
+base64
+json
